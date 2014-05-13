@@ -1,0 +1,348 @@
+{
+	"belts": [
+		{
+			"color": "yellow",
+			"techniques": [
+			{
+				"name": "DELAYED SWORD (front - right and lapel grab)",
+				"link": ""
+			},
+			{
+				"name": "ALTERNATING MACES (front - two-hand push)",
+				"link": ""
+			},
+			{
+				"name": "SWORDS OF DESTRUCTION (front - left straight or roundhouse punch)",
+				"link": ""
+			},
+			{
+				"name": "DEFLECTING HAMMER (front - right front thrust kick)",
+				"link": ""
+			},
+			{
+				"name": "CAPTURED TWIGS (rear bear-hug, arms pinned)",
+				"link": ""
+			},
+			{
+				"name": "GRASP OF DEATH (left flank - right arm headlock)",
+				"link": ""
+			},
+			{
+				"name": "CHECKING THE STORM (front - right step-through overhead club)",
+				"link": ""
+			},
+			{
+				"name": "MACE OF AGGRESSION(front - two-hand lapel grab, pulling in)",
+				"link": ""
+			},
+			{
+				"name": "ATTACKING MACE (front - right step-through straight punch))",
+				"link": ""
+			},
+			{
+				"name": "SWORD AND HAMMER (right flank -left hand shoulder grab)",
+				"link": ""
+			}
+		]
+	},
+	{
+		"color":"orange",
+		"techniques":[
+			{
+				"name": "CLUTCHING FEATHERS - Front Left Hand Hair Grab",
+				"link": ""	
+			},
+			{
+				"name": "TRIGGERED SALUTE - Front Right Hand Straight Punch",
+				"link": ""	
+			},
+			{
+				"name": "DANCE OF DEATH - Front Right Straight Punch",
+				"link": ""
+			},
+			{
+				"name": "THRUSTING SALUTE - Front Right Step Through Kick",
+				"link": ""
+			},
+			{
+				"name": "GIFT OF DESTRUCTION - Handshake",
+				"link": ""
+			},
+			{
+				"name": "LOCKING HORNS - Front Headlock",
+				"link": ""
+			},
+			{
+				"name": "LONE KIMONO - Front Left Hand Lapel Grab",
+				"link": ""	
+			},
+			{
+				"name": "FIVE SWORDS - Front Right Step Through Roundhouse Punch",
+				"link": ""	
+			},
+			{
+				"name": "BUCKLING BRANCH - Front Left Step Through Kick",
+				"link": ""
+			},
+			{
+				"name": "SCRAPING HOOF - Full Nelson",
+				"link": ""
+			},
+			{
+				"name": "GRIP OF DEATH - Left Flank Right Arm Headlock",
+				"link": ""
+			},
+			{
+				"name": "CROSSING TALON - Front Right Hand Cross Wrist Grab",
+				"link": ""
+			},
+			{
+				"name": "REPEATING MACE - Front Left Hand Push",
+				"link": ""
+			},
+			{
+				"name": "SHIELDING HAMMER - Front Left Step Through Hooking Punchk",
+				"link": ""
+			},
+			{
+				"name": "STRIKING SERPENT'S HEAD - Front Bear Hug, Arms free",
+				"link": ""
+			},
+			{
+				"name": "LOCKING WINGS - Hammerlock",
+				"link": ""
+			},
+			{
+				"name": "OBSCURE WING - Right Flank Left Hand Shoulder Grabb",
+				"link": ""	
+			},
+			{
+				"name": "REVERSING MACE - Front Left Step Through Straight Punch",
+				"link": ""	
+			},
+			{
+				"name": "THRUSTING PRONGS _ Front Bear Hug, Arms Pinned",
+				"link": ""
+			},
+			{
+				"name": "TWISTING TWIG - Front Wrist Lock",
+				"link": ""
+			},
+			{
+				"name": "OBSCURE SWORD - Right Flank Left Hand Shoulder Grab",
+				"link": ""
+			},
+			{
+				"name": "RAINING CLAW - Front Right Uppercut Punch",
+				"link": ""
+			},
+			{
+				"name": "CRASHING WINGS - Right Bear Hug, Arms Free",
+				"link": ""
+			}
+		]
+	},
+	{
+		"color": "purple",
+		"techniques": [
+			{
+				"name": "TWIRLING WINGS - Rear Two-Hand Stiff-Arm Shoulder Grab",
+				"link": ""
+			},
+			{
+				"name": "SNAPPING TWIG - front Left Hand Chest Push",
+				"link": ""
+			},
+			{
+				"name": "LEAPING CRANE - Front Right Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "SWINGING PENDULUM - Front Right Roundhouse Kick",
+				"link": ""
+			},
+			{
+				"name": "CRUSHING HAMMERS - Rear Bear Hug -- Arms Pinned",
+				"link": ""
+			},
+			{
+				"name": "CAPTURED LEAVES - Right Flank Finger Lock",
+				"link": ""
+			},
+			{
+				"name": "EVADING THE STORM - Front Right Step Through Overhead Club",
+				"link": ""
+			},
+			{
+				"name": "CHARGING RAM - Front Tackle",
+				"link": ""
+			},
+			{
+				"name": "PARTING WINGS - Front Two-Hand Push",
+				"link": ""
+			},
+			{
+				"name": "THUNDERING HAMMERS - Front Right Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "SQUEEZING THE PEACH - Rear Bearhug -- arms pinned",
+				"link": ""
+			},
+			{
+				"name": "CIRCLING WING - Rear Two Hand Choke - Arms Bent",
+				"link": ""
+			},
+			{
+				"name": "CALMING THE STORM - Front Right Step Through Roundhouse Club",
+				"link": ""
+			},
+			{
+				"name": "DARTING MACE - Front Two-Hand Wrist Grab",
+				"link": ""
+			},
+			{
+				"name": "HOOKING WINGS - Front Two-Hand Low Push",
+				"link": ""
+			},
+			{
+				"name": "SHIELD AND SWORD - Front Left Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "GIFT IN RETURN - Front Handshake",
+				"link": ""
+			},
+			{
+				"name": "BOW OF COMPULSION - Front Wrist Lock Against Opponent's Chest",
+				"link": ""
+			},
+			{
+				"name": "OBSTRUCTING THE STORM - Front Right Step Through Overhead Club",
+				"link": ""
+			},
+			{
+				"name": "TWIN KIMONO - Front Two-Hand Lapel Grab - Push Out",
+				"link": ""
+			},
+			{
+				"name": "SLEEPER - Front Right Front Step Tr ought Straight Punch",
+				"link": ""
+			},
+			{
+				"name": "SPIRALING TWIG - Rear Bear Hug -- Arms Free",
+				"link": ""
+			},
+			{
+				"name": "CROSS OF DESTRUCTION - Rear Two-Hand Choke",
+				"link": ""
+			},
+			{
+				"name": "FLIGHT TO FREEDOM - rear Hammerlock",
+				"link": ""
+			}
+		]
+	},
+	{
+		"color":"blue",
+		"techniques": [
+			{
+				"name": "BEGGING HANDS - Front Two-Hand Grab to Wrists",
+				"link": ""
+			},
+			{
+				"name": "THRUSTING WEDGE - Front Right Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "FLASHING WINGS - Front Right Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "HUGGING PENDULUM - Front Right Thrusting Knife-Edge Kick",
+				"link": ""
+			},
+			{
+				"name": "REPEATING DEVASTATION - Full Nelson",
+				"link": ""
+			},
+			{
+				"name": "ENTANGLED WING - Front Arm Lock",
+				"link": ""
+			},
+			{
+				"name": "DEFYING THE STORM - Front Right Step Through Roundhouse Club",
+				"link": ""
+			},
+			{
+				"name": "RAKING MACE - Front Two-Hand Lapel Grab -- Pulling In",
+				"link": ""
+			},
+			{
+				"name": "SNAKING TALON - Front Two Hand Push",
+				"link": ""
+			},
+			{
+				"name": "SHIELD AND MACE - Front Right Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "RETREATING PENDULUM - Front Right Thrusting Heel Kick",
+				"link": ""
+			},
+			{
+				"name": "TRIPPING ARROW - Rear Two-Hand Choke",
+				"link": ""
+			},
+			{
+				"name": "FALLEN CROSS - Rear Two-Hand Choke",
+				"link": ""
+			},
+			{
+				"name": "RETURNING STORM - Front Inward Roundhouse And Backhand Club",
+				"link": ""
+			},
+			{
+				"name": "CROSSED TWIGS - Rear Two -Hand Grabs To Wrist",
+				"link": ""
+			},
+			{
+				"name": "TWIST OF FATE - Front Two Hand Push",
+				"link": ""
+			},
+			{
+				"name": "FLASHING MACE - Front Right Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "GIFT OF DESTINY - Front Handshake",
+				"link": ""
+			},
+			{
+				"name": "WINGS OF SILK - Rear Two-Arm Hammerlock",
+				"link": ""
+			},
+			{
+				"name": "GRIPPING TALON - Front Left Direct Right Wrist Grab",
+				"link": ""
+			},
+			{
+				"name": "GATHERING CLOUDS - Front Right Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "DESTRUCTIVE TWINS - Front Two-Hand Choke -- Pulling In",
+				"link": ""
+			},
+			{
+				"name": "BROKEN RAM - Front Tackle",
+				"link": ""
+			},
+			{
+				"name": "CIRCLING THE HORIZON - Front Right Step Through Punch",
+				"link": ""
+			}
+		]
+	}
+]
+}

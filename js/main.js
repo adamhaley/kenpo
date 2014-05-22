@@ -1,6 +1,7 @@
 angular.module('Kenpo', [
 	]).controller('mainCtrl',function($scope, $http){
 
+		$scope.currentBelt = '';
 		$scope.belts = [];
 
 		$http.get('data/techniques.json')
@@ -13,5 +14,15 @@ angular.module('Kenpo', [
   		.error(function(data){
   		  console.log(data);	
   		});
+
+
+  		$scope.setColor = function(color){
+  			$scope.currentBelt = color;
+  		}
+  		
+  		$scope.showVideo = function(link){
+  			console.log(link);
+  		}
+
 
 	});

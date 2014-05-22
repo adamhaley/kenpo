@@ -6,13 +6,21 @@
 		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
 		<script src="js/bower_components/jquery/dist/jquery.js"></script>
 		<script src="js/main.js"></script>
+		<link rel="stylesheet" href="js/bower_components/bootstrap/less/bootstrap.css">
+		<link rel="stylesheet" href="css/main.css">
+		
 	</head>
-	<body>
-		<div class="container" data-ng-controller="mainCtrl">
-			<div class="row" data-ng-repeat="belt in belts">
+	<body data-ng-controller="mainCtrl">
+		<nav>
+			<ul class="list-inline">
+				<li data-ng-repeat="belt in belts" data-ng-click="setColor(belt.color)">{{belt.color}}</li>
+			</ul>
+		</nav>
+		<div class="container" >
+			<div class="row" data-ng-repeat="belt in belts" data-ng-show="currentBelt == belt.color">
 				{{belt.color}}
 				<ul>
-					<li data-ng-repeat="technique in belt.techniques" >{{$index+1}}) {{technique.name}}</li> 
+					<li data-ng-repeat="technique in belt.techniques" >{{$index+1}}) {{technique.name}} <span data-ng-click="showVideo(technique.link)" class="btn glyphicon-eye-open"></span></li> 
 				</ul>
 			</div>
 		</div>

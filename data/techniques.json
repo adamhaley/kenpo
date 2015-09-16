@@ -343,6 +343,112 @@
 				"link": ""
 			}
 		]
+	},
+	{
+		"color":"blue-green",
+		"techniques": [
+			{
+				"name": "OBSCURE CLAW - Right Flank Left Hand Shoulder Grab",
+				"link": ""
+			},
+			{
+				"name": "ENCOUNTER WITH DANGER - Front Two - Hand Push",
+				"link": ""
+			},
+			{
+				"name": "CIRCLING DESTRUCTION - Front Left Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "DETOUR FROM DOOM - Front Right Roundhouse Kick",
+				"link": ""
+			},
+			{
+				"name": "SQUATTING SACRIFICE - Rear Bear Hug -- Arms Free ",
+				"link": ""
+			},
+			{
+				"name": "ESCAPE FROM DEATH - Rear Right-Arm Choke",
+				"link": ""
+			},
+			{
+				"name": "BRUSHING THE STORM - Right Flank Right Step Trough Overhead Club",
+				"link": ""
+			},
+			{
+				"name": "MENACING TWIRL - Rear Left-Hand Belt Grab",
+				"link": ""
+			},
+			{
+				"name": "LEAP FROM DANGER - Rear Two-Hand Push",
+				"link": ""
+			},
+			{
+				"name": "CIRCLES OF PROTECTION - Front Right Step Through Overhead Punch",
+				"link": ""
+			},
+			{
+				"name": "CIRCLE OF DOOM - Front Right Straight Kick",
+				"link": ""
+			},
+			{
+				"name": "BROKEN GIFT - Handshake",
+				"link": ""
+			}
+		]
+	},
+	{
+		"color":"green",
+		"techniques": [
+			{
+				"name": "HEAVENLY ASCENT - Front Two-Hand Choke == Arms Straight",
+				"link": ""
+			},
+			{
+				"name": "CAPTURING THE STORM - Front Right Step Through Overhead Club",
+				"link": ""
+			},
+			{
+				"name": "CONQUERING SHIELD - Front Left Stiff-Arm Lapel Grab",
+				"link": ""
+			},
+			{
+				"name": "TAMING THE MACE - Front Right Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "TWIRLING SACRIFICE - Full Nelson",
+				"link": ""
+			},
+			{
+				"name": "CROSS OF DEATH - Front Two-Hand Cross Choke",
+				"link": ""
+			},
+			{
+				"name": "SECURING THE STORM - Front Right Step Through Roundhouse Club",
+				"link": ""
+			},
+			{
+				"name": "INTERCEPTING THE RAM - Front Tackle",
+				"link": ""
+			},
+			{
+				"name": "KNEEL OF COMPULSION - Right Flank Right Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "CLIPPING THE STORM - Front Right Thrusting Club",
+				"link": ""
+			},
+			{
+				"name": "GLANCING WING - Front Left Uppercut Punch",
+				"link": ""
+			},
+			{
+				"name": "THE BACK BREAKER - Right FLank Right Step Through Punch",
+				"link": ""
+			}
+		]
 	}
 ]
 }

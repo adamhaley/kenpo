@@ -449,6 +449,166 @@
 				"link": "https://youtu.be/rSP38TAzDSM?list=PLB8B7495B4994F405"
 			}
 		]
+	},
+	{
+		"color":"green-brown",
+		"techniques": [
+			{
+				"name": "GLANCING SPEAR - front Right Direct Wrist Grab",
+				"link": ""
+			},
+			{
+				"name": "THRUST INTO DARKNESS -  Rear Right Step Trough Punch",
+				"link": ""
+			},
+			{
+				"name": "CIRCLING FANS - Front Right And Left front Straight Punch Combination",
+				"link": ""
+			},
+			{
+				"name": "ROTATING DESTRUCTION - Front Right Snap and Left Spinning Back-Kick",
+				"link": ""
+			},
+			{
+				"name": "FALCONS OF FORCE -  Flank Left and Right Shoulder Grab By Two Men",
+				"link": ""
+			},
+			{
+				"name": "THE BEAR AND THE RAM - Front Right Step Through Overhead Knife",
+				"link": ""
+			},
+			{
+				"name": "RAINING LANCE - Front Right Step Through Roundhouse Club",
+				"link": ""
+			},
+			{
+				"name": "DESPERATE FALCONS - Front Two-Hand Grab to Both Wrists",
+				"link": ""
+			},
+			{
+				"name": "LEAP OF DEATH - Front Right Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "PROTECTING FANS - Front Right and Left Punch Combination With Opponents Left Leg Forward",
+				"link": ""
+			},
+			{
+				"name": "DECEPTIVE PANTHER - Combination Right Front Snap Kick (Low) and Right Roundhouse Kick (High)",
+				"link": ""
+			},
+			{
+				"name": "COURTING THE TIGER - Flank Left and Right Arm Grab By Two Opponents",
+				"link": ""
+			}
+		]
+	},
+	{
+		"color":"3rd brown",
+		"techniques": [
+			{
+				"name": "GATHERING THE SNAKES - Front Left Punch and Rear Right Punch By Two Men",
+				"link": ""
+			},
+			{
+				"name": "GLANCING LANCE - Front Right Knife Thrust While your Arms Are Down",
+				"link": ""
+			},
+			{
+				"name": "DOMINATING CIRCLES - Front Right Shoulder Grab By Opponent's Right Hand",
+				"link": ""
+			},
+			{
+				"name": "DESTRUCTIVE FANS - Left Flank Right Punch With Opponent's Rig Leg Forward",
+				"link": ""
+			},
+			{
+				"name": "UNFURLING CRANE - Front Right and Left Punch Combination With Opponent's Right Leg Forward",
+				"link": ""
+			},
+			{
+				"name": "GRASPING EAGLES - Front Right Lapel Grab and Rear Right Arms Grab By Two Men",
+				"link": ""
+			},
+			{
+				"name": "PARTING OF THE SNAKES - Front Right Punch and Rear Attempt By Two Men",
+				"link": ""
+			},
+			{
+				"name": "TRUSTING LANCE - Front Right Knife Trust While Your Arms Are Down",
+				"link": ""
+			},
+			{
+				"name": "BLINDING SACRIFICE - Front Two-Hand Grab or Choke",
+				"link": ""
+			},
+			{
+				"name": "SNAKES OF WISDOM - Flank Left and Right Shoulder Grabs By Two Men",
+				"link": ""
+			},
+			{
+				"name": "ENTWINING LANCE - Front Right Knife Thrust",
+				"link": ""
+			},
+			{
+				"name": "FALLING FALCON - Front Right Direct Lapel Grab",
+				"link": ""
+			}
+		]
+	},
+	{
+		"color":"2nd brown",
+		"techniques": [
+			{
+				"name": "FATAL CROSS - Front Two-Hand Attempted Grab or Push",
+				"link": ""
+			},
+			{
+				"name": "TWIRLING HAMMERS - Front Left Step Trough Punch",
+				"link": ""
+			},
+			{
+				"name": "DEFENSIVE CROSS - front Right Snap Kick",
+				"link": ""
+			},
+			{
+				"name": "DANCE OF DARKNESS - Front Right Kick Followed By a Right Punch",
+				"link": ""
+			},
+			{
+				"name": "MARRIAGE OF THE RAMS - Right and Left Shoulder GRabs (Close) By Two Men",
+				"link": ""
+			},
+			{
+				"name": "THE RAM AND THE EAGLE - Front Right Punch and Left Collar Grab By Two Men",
+				"link": ""
+			},
+			{
+				"name": "ESCAPE FROM THE STORM - Right Flank Right Overhead Club",
+				"link": ""
+			},
+			{
+				"name": "CIRCLING WINDMILLS - Front Two-Hand Push Followed By a Right Punch",
+				"link": ""
+			},
+			{
+				"name": "DESTRUCTIVE KNEEL - Front Right Step Through Punch",
+				"link": ""
+			},
+			{
+				"name": "BOWING TO BUDDHA - Front Right Roundhouse Kick (While Kneeling On The Ground
+)",
+				"link": ""
+			},
+			{
+				"name": "REVERSING CIRCLES - Front Left Roundhouse Kick Followed By a Left Punch",
+				"link": ""
+			},
+			{
+				"name": "REPRIMANDING THE BEARS - Front Right Punch and Rear Bear-Hug By Two Men -- Arms, Free",
+				"link": ""
+			}
+		]
 	}
 ]
 }

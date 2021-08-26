@@ -304,99 +304,123 @@
 		"color":"blue",
 		"techniques": [
 			{
-				"name": "BEGGING HANDS - Front Two-Hand Grab to Wrists",
+				"name": "BEGGING HANDS",
+        "attack":"Front Two-Hand Grab to Wrists",
 				"link": ""
 			},
 			{
-				"name": "THRUSTING WEDGE - Front Right Step Through Punch",
+				"name": "THRUSTING WEDGE",
+        "attack":"Front Right Step Through Punch",
 				"link": ""
 			},
 			{
-				"name": "FLASHING WINGS - Front Right Step Through Punch",
+				"name": "FLASHING WINGS",
+        "attack":"Front Right Step Through Punch",
 				"link": ""
 			},
 			{
-				"name": "HUGGING PENDULUM - Front Right Thrusting Knife-Edge Kick",
+				"name": "HUGGING PENDULUM",
+        "attack":"Front Right Thrusting Knife-Edge Kick",
 				"link": ""
 			},
 			{
-				"name": "REPEATING DEVASTATION - Full Nelson",
+				"name": "REPEATING DEVASTATION",
+        "attack":"Full Nelson",
 				"link": ""
 			},
 			{
-				"name": "ENTANGLED WING - Front Arm Lock",
+				"name": "ENTANGLED WING",
+        "attack":"Front Arm Lock",
 				"link": ""
 			},
 			{
-				"name": "DEFYING THE STORM - Front Right Step Through Roundhouse Club",
+				"name": "DEFYING THE STORM",
+        "attack":"Front Right Step Through Roundhouse Club",
 				"link": ""
 			},
 			{
-				"name": "RAKING MACE - Front Two-Hand Lapel Grab -- Pulling In",
+				"name": "RAKING MACE",
+        "attack":"Front Two-Hand Lapel Grab -- Pulling In",
 				"link": ""
 			},
 			{
-				"name": "SNAKING TALON - Front Two Hand Push",
+				"name": "SNAKING TALON",
+        "attack":"Front Two Hand Push",
 				"link": ""
 			},
 			{
-				"name": "SHIELD AND MACE - Front Right Step Through Punch",
+				"name": "SHIELD AND MACE",
+        "attack":"Front Right Step Through Punch",
 				"link": ""
 			},
 			{
-				"name": "RETREATING PENDULUM - Front Right Thrusting Heel Kick",
+				"name": "RETREATING PENDULUM",
+        "attack":"Front Right Thrusting Heel Kick",
 				"link": ""
 			},
 			{
-				"name": "TRIPPING ARROW - Rear Two-Hand Choke",
+				"name": "TRIPPING ARROW",
+        "attack":"Rear Two-Hand Choke",
 				"link": ""
 			},
 			{
-				"name": "FALLEN CROSS - Rear Two-Hand Choke",
+				"name": "FALLEN CROSS",
+        "attack":"Rear Two-Hand Choke",
 				"link": ""
 			},
 			{
-				"name": "RETURNING STORM - Front Inward Roundhouse And Backhand Club",
+				"name": "RETURNING STORM",
+        "attack":"Front Inward Roundhouse And Backhand Club",
 				"link": ""
 			},
 			{
-				"name": "CROSSED TWIGS - Rear Two -Hand Grabs To Wrist",
+				"name": "CROSSED TWIGS",
+        "attack":"Rear Two -Hand Grabs To Wrist",
 				"link": ""
 			},
 			{
-				"name": "TWIST OF FATE - Front Two Hand Push",
+				"name": "TWIST OF FATE",
+        "attack":"Front Two Hand Push",
 				"link": ""
 			},
 			{
-				"name": "FLASHING MACE - Front Right Step Through Punch",
+				"name": "FLASHING MACE",
+        "attack":"Front Right Step Through Punch",
 				"link": ""
 			},
 			{
-				"name": "GIFT OF DESTINY - Front Handshake",
+				"name": "GIFT OF DESTINY",
+        "attack":"Front Handshake",
 				"link": ""
 			},
 			{
-				"name": "WINGS OF SILK - Rear Two-Arm Hammerlock",
+				"name": "WINGS OF SILK",
+        "attack":"Rear Two-Arm Hammerlock",
 				"link": ""
 			},
 			{
-				"name": "GRIPPING TALON - Front Left Direct Right Wrist Grab",
+				"name": "GRIPPING TALON",
+        "attack":"Front Left Direct Right Wrist Grab",
 				"link": ""
 			},
 			{
-				"name": "GATHERING CLOUDS - Front Right Step Through Punch",
+				"name": "GATHERING CLOUDS",
+        "attack":"Front Right Step Through Punch",
 				"link": ""
 			},
 			{
-				"name": "DESTRUCTIVE TWINS - Front Two-Hand Choke -- Pulling In",
+				"name": "DESTRUCTIVE TWINS - ,
+        "attack":"Front Two-Hand Choke -- Pulling In",
 				"link": ""
 			},
 			{
-				"name": "BROKEN RAM - Front Tackle",
+				"name": "BROKEN RAM",
+        "attack":"Front Tackle",
 				"link": ""
 			},
 			{
-				"name": "CIRCLING THE HORIZON - Front Right Step Through Punch",
+				"name": "CIRCLING THE HORIZON",
+        "attack":"Front Right Step Through Punch",
 				"link": ""
 			}
 		]

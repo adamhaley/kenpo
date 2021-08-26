@@ -4,43 +4,53 @@
 			"color": "yellow",
 			"techniques": [
 			{
-				"name": "DELAYED SWORD (front - right and lapel grab)",
+				"name": "DELAYED SWORD",
+	      "attack":"front - right and lapel grab",
+        "link": ""
+			},
+			{
+				"name": "ALTERNATING MACES",
+        "attack":"front - two-hand push",
 				"link": ""
 			},
 			{
-				"name": "ALTERNATING MACES (front - two-hand push)",
+				"name": "SWORDS OF DESTRUCTION",
+        "attack":"front - left straight or roundhouse punch",
 				"link": ""
 			},
 			{
-				"name": "SWORDS OF DESTRUCTION (front - left straight or roundhouse punch)",
+				"name": "DEFLECTING HAMMER",
+        "attack":"front - right front thrust kick",
 				"link": ""
 			},
 			{
-				"name": "DEFLECTING HAMMER (front - right front thrust kick)",
+				"name": "CAPTURED TWIGS",
+        "attack":"rear bear-hug, arms pinned",
 				"link": ""
 			},
 			{
-				"name": "CAPTURED TWIGS (rear bear-hug, arms pinned)",
+				"name": "GRASP OF DEATH",
+        "attack":"left flank - right arm headlock",
 				"link": ""
 			},
 			{
-				"name": "GRASP OF DEATH (left flank - right arm headlock)",
+				"name": "CHECKING THE STORM",
+        "attack":"front - right step-through overhead club",
 				"link": ""
 			},
 			{
-				"name": "CHECKING THE STORM (front - right step-through overhead club)",
+				"name": "MACE OF AGGRESSION",
+        "attack":"front - two-hand lapel grab, pulling in",
 				"link": ""
 			},
 			{
-				"name": "MACE OF AGGRESSION(front - two-hand lapel grab, pulling in)",
+				"name": "ATTACKING MACE",
+        "attack":"front - right step-through straight punch",
 				"link": ""
 			},
 			{
-				"name": "ATTACKING MACE (front - right step-through straight punch))",
-				"link": ""
-			},
-			{
-				"name": "SWORD AND HAMMER (right flank -left hand shoulder grab)",
+				"name": "SWORD AND HAMMER",
+        "attack":"right flank -left hand shoulder grab",
 				"link": ""
 			}
 		]
@@ -49,95 +59,118 @@
 		"color":"orange",
 		"techniques":[
 			{
-				"name": "CLUTCHING FEATHERS - Front Left Hand Hair Grab",
+				"name": "CLUTCHING FEATHERS",
+        "attack":"Front Left Hand Hair Grab",
 				"link": ""	
 			},
 			{
-				"name": "TRIGGERED SALUTE - Front Right Hand Straight Punch",
+				"name": "TRIGGERED SALUTE",
+        "attack":"Front Right Hand Straight Punch",
 				"link": ""	
 			},
 			{
-				"name": "DANCE OF DEATH - Front Right Straight Punch",
+				"name": "DANCE OF DEATH",
+        "attack":"Front Right Hand Straight Punch",
 				"link": ""
 			},
 			{
-				"name": "THRUSTING SALUTE - Front Right Step Through Kick",
+				"name": "THRUSTING SALUTE",
+        "attack":"Front Right Step Through Kick",
 				"link": ""
 			},
 			{
-				"name": "GIFT OF DESTRUCTION - Handshake",
+				"name": "GIFT OF DESTRUCTION",
+        "attack":"Handshake",
 				"link": ""
 			},
 			{
-				"name": "LOCKING HORNS - Front Headlock",
+				"name": "LOCKING HORNS",
+        "attack":"Front Headlock",
 				"link": ""
 			},
 			{
-				"name": "LONE KIMONO - Front Left Hand Lapel Grab",
+				"name": "LONE KIMONO",
+        "attack":"Front Left Hand Lapel Grab",
 				"link": ""	
 			},
 			{
-				"name": "FIVE SWORDS - Front Right Step Through Roundhouse Punch",
+				"name": "FIVE SWORDS",
+        "attack":"Front Right Step Through Roundhouse Punch",
 				"link": ""	
 			},
 			{
-				"name": "BUCKLING BRANCH - Front Left Step Through Kick",
+				"name": "BUCKLING BRANCH",
+        "attack":"Front Left Step Through Kick",
 				"link": ""
 			},
 			{
-				"name": "SCRAPING HOOF - Full Nelson",
+				"name": "SCRAPING HOOF",
+        "attack":"Full Nelson",
 				"link": ""
 			},
 			{
-				"name": "GRIP OF DEATH - Left Flank Right Arm Headlock",
+				"name": "GRIP OF DEATH - ,
+        "attack":"Left Flank Right Arm Headlock",
 				"link": ""
 			},
 			{
-				"name": "CROSSING TALON - Front Right Hand Cross Wrist Grab",
+				"name": "CROSSING TALON",
+        "attack":"Front Right Hand Cross Wrist Grab",
 				"link": ""
 			},
 			{
-				"name": "REPEATING MACE - Front Left Hand Push",
+				"name": "REPEATING MACE",
+        "attack":"Front Left Hand Push",
 				"link": ""
 			},
 			{
-				"name": "SHIELDING HAMMER - Front Left Step Through Hooking Punchk",
+				"name": "SHIELDING HAMMER",
+        "attack":"Front Left Step Through Hooking Punchk",
 				"link": ""
 			},
 			{
-				"name": "STRIKING SERPENT'S HEAD - Front Bear Hug, Arms free",
+				"name": "STRIKING SERPENT'S HEAD",
+        "attack":"Front Bear Hug, Arms free",
 				"link": ""
 			},
 			{
-				"name": "LOCKING WINGS - Hammerlock",
+				"name": "LOCKING WINGS",
+        "attack":"Hammerlock",
 				"link": ""
 			},
 			{
-				"name": "OBSCURE WING - Right Flank Left Hand Shoulder Grabb",
+				"name": "OBSCURE WING",
+        "attack":"Right Flank Left Hand Shoulder Grabb",
 				"link": ""	
 			},
 			{
-				"name": "REVERSING MACE - Front Left Step Through Straight Punch",
+				"name": "REVERSING MACE",
+        "attack":"Front Left Step Through Straight Punch",
 				"link": ""	
 			},
 			{
-				"name": "THRUSTING PRONGS _ Front Bear Hug, Arms Pinned",
+				"name": "THRUSTING PRONGS",
+        "attack":"Front Bear Hug, Arms Pinned",
 				"link": ""
 			},
 			{
-				"name": "TWISTING TWIG - Front Wrist Lock",
+				"name": "TWISTING TWIG",
+        "attack":"Front Wrist Lock",
 				"link": ""
 			},
 			{
-				"name": "OBSCURE SWORD - Right Flank Left Hand Shoulder Grab",
+				"name": "OBSCURE SWORD",
+        "attack":"Right Flank Left Hand Shoulder Grab",
 				"link": ""
 			},
 			{
-				"name": "RAINING CLAW - Front Right Uppercut Punch",
+				"name": "RAINING CLAW",
+        "attack":"Front Right Uppercut Punch",
 				"link": ""
 			},
 			{
-				"name": "CRASHING WINGS - Right Bear Hug, Arms Free",
+				"name": "CRASHING WINGS",
+        "attack":"Right Bear Hug, Arms Free",
 				"link": ""
 			}
 		]
@@ -146,99 +179,123 @@
 		"color": "purple",
 		"techniques": [
 			{
-				"name": "TWIRLING WINGS - Rear Two-Hand Stiff-Arm Shoulder Grab",
+				"name": "TWIRLING WINGS",
+        "attack":"Rear Two-Hand Stiff-Arm Shoulder Grab",
 				"link": ""
 			},
 			{
-				"name": "SNAPPING TWIG - front Left Hand Chest Push",
+				"name": "SNAPPING TWIG",
+        "attack":"front Left Hand Chest Push",
 				"link": ""
 			},
 			{
-				"name": "LEAPING CRANE - Front Right Step Through Punch",
+				"name": "LEAPING CRANE",
+        "attack":"Front Right Step Through Punch",
 				"link": ""
 			},
 			{
-				"name": "SWINGING PENDULUM - Front Right Roundhouse Kick",
+				"name": "SWINGING PENDULUM",
+        "attack":"Front Right Roundhouse Kick",
 				"link": ""
 			},
 			{
-				"name": "CRUSHING HAMMERS - Rear Bear Hug -- Arms Pinned",
+				"name": "CRUSHING HAMMERS",
+        "attack":"Rear Bear Hug -- Arms Pinned",
 				"link": ""
 			},
 			{
-				"name": "CAPTURED LEAVES - Right Flank Finger Lock",
+				"name": "CAPTURED LEAVES",
+        "attack":"Right Flank Finger Lock",
 				"link": ""
 			},
 			{
-				"name": "EVADING THE STORM - Front Right Step Through Overhead Club",
+				"name": "EVADING THE STORM - ,
+        "attack":"Front Right Step Through Overhead Club",
 				"link": ""
 			},
 			{
-				"name": "CHARGING RAM - Front Tackle",
+				"name": "CHARGING RAM",
+        "attack":"Front Tackle",
 				"link": ""
 			},
 			{
-				"name": "PARTING WINGS - Front Two-Hand Push",
+				"name": "PARTING WINGS",
+        "attack":"Front Two-Hand Push",
 				"link": ""
 			},
 			{
-				"name": "THUNDERING HAMMERS - Front Right Step Through Punch",
+				"name": "THUNDERING HAMMERS",
+        "attack":"Front Right Step Through Punch",
 				"link": ""
 			},
 			{
-				"name": "SQUEEZING THE PEACH - Rear Bearhug -- arms pinned",
+				"name": "SQUEEZING THE PEACH",
+        "attack":"Rear Bearhug -- arms pinned",
 				"link": ""
 			},
 			{
-				"name": "CIRCLING WING - Rear Two Hand Choke - Arms Bent",
+				"name": "CIRCLING WING",
+        "attack":"Rear Two Hand Choke - Arms Bent",
 				"link": ""
 			},
 			{
-				"name": "CALMING THE STORM - Front Right Step Through Roundhouse Club",
+				"name": "CALMING THE STORM",
+        "attack":"Front Right Step Through Roundhouse Club",
 				"link": ""
 			},
 			{
-				"name": "DARTING MACE - Front Two-Hand Wrist Grab",
+				"name": "DARTING MACE",
+        "attack":"Front Two-Hand Wrist Grab",
 				"link": ""
 			},
 			{
-				"name": "HOOKING WINGS - Front Two-Hand Low Push",
+				"name": "HOOKING WINGS",
+        "attack":"Front Two-Hand Low Push",
 				"link": ""
 			},
 			{
-				"name": "SHIELD AND SWORD - Front Left Step Through Punch",
+				"name": "SHIELD AND SWORD",
+        "attack":"Front Left Step Through Punch",
 				"link": ""
 			},
 			{
-				"name": "GIFT IN RETURN - Front Handshake",
+				"name": "GIFT IN RETURN",
+        "attack":"Front Handshake",
 				"link": ""
 			},
 			{
-				"name": "BOW OF COMPULSION - Front Wrist Lock Against Opponent's Chest",
+				"name": "BOW OF COMPULSION",
+        "attack":"Front Wrist Lock Against Opponent's Chest",
 				"link": ""
 			},
 			{
-				"name": "OBSTRUCTING THE STORM - Front Right Step Through Overhead Club",
+				"name": "OBSTRUCTING THE STORM",
+        "attack":"Front Right Step Through Overhead Club",
 				"link": ""
 			},
 			{
-				"name": "TWIN KIMONO - Front Two-Hand Lapel Grab - Push Out",
+				"name": "TWIN KIMONO",
+        "attack":"Front Two-Hand Lapel Grab - Push Out",
 				"link": ""
 			},
 			{
-				"name": "SLEEPER - Front Right Front Step Tr ought Straight Punch",
+				"name": "SLEEPER",
+        "attack":"Front Right Front Step Tr ought Straight Punch",
 				"link": ""
 			},
 			{
-				"name": "SPIRALING TWIG - Rear Bear Hug -- Arms Free",
+				"name": "SPIRALING TWIG",
+        "attack":"Rear Bear Hug -- Arms Free",
 				"link": ""
 			},
 			{
-				"name": "CROSS OF DESTRUCTION - Rear Two-Hand Choke",
+				"name": "CROSS OF DESTRUCTION",
+        "attack":"Rear Two-Hand Choke",
 				"link": ""
 			},
 			{
-				"name": "FLIGHT TO FREEDOM - rear Hammerlock",
+				"name": "FLIGHT TO FREEDOM",
+        "attack":"rear Hammerlock",
 				"link": ""
 			}
 		]
@@ -345,10 +402,10 @@
 		]
 	},
 	{
-		"color":"blue-green",
+		"color":"green",
 		"techniques": [
 			{
-				"name": "OBSCURE CLAW - Right Flank Left Hand Shoulder Grab",
+				"name": "OBSCURE CLAWS - Right Flank Left Hand Shoulder Grab",
 				"link": ""
 			},
 			{
